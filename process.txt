@@ -1,3 +1,2 @@
 Initial module logic documentation
 Add algorithm steps and data validation logic
-Advanced Validation ruless
